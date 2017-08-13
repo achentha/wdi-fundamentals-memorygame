@@ -83,6 +83,11 @@ img {
   float: right;
 }
 
+#restartButton {
+  background-color: yellow;
+  height: 40px;
+  color: blue;
+}
 .clearfix:after {
   visibility: hidden;
   display: block;
@@ -90,9 +95,4 @@ img {
   clear: both;
   height: 0;
   font-size: 0;
-}
-
-.name {
-  color: #F15B31;
-  font-weight: 700px;
 }
